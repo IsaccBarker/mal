@@ -1,1 +1,1 @@
-os.remove("/home/milo/Developer/dyson/test")
+os.remove("/home/milo/Developer/dyson/test.txt")
